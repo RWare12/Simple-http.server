@@ -1,3 +1,5 @@
+#from gist https://gist.github.com/bradmontgomery/2219997
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import socket
 import codecs
